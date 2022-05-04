@@ -11,6 +11,7 @@ Prior to 1871, the United States viewed indigenous nations as both a threat and 
 
  {% include feature/image.html objectid="/objects/1855_treaty_visualization_1.jpg" width="75" %} 
 
+{% include feature/image.html objectid="/objects/Arrival_of_the_Nez_Perce_Indians_to_Walla_Walla_Treaty_May_1855.jpg" width="75" %}
 
 ### Notes 
 
