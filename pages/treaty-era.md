@@ -41,7 +41,9 @@ Baird, Dennis W., Diane Mallickan, and William R. Swagerty. The Nez Perce Nation
 
 Bigart, Robert, and Clarence Woodcock. In the Name of the Salish &amp; Kootenai Nation: The 1855 Hell Gate Treaty and the Origin of the Flathead Indian Reservation. Pablo, MT: Salish Kootenai College Press, 1996. 
 
-“An Indian's View of Indian Affairs.” Center for the study of the pacific northwest. University of Washington . Accessed May 9, 2022. [Chief Joseph's Speech] (https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Reading%20the%20Region/Texts%20by%20and%20about%20Natives/Texts/9.html.)  
+“An Indian's View of Indian Affairs.” Center for the study of the pacific northwest. University of Washington . Accessed May 9, 2022. 
+
+[Chief Joseph's Speech](https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Reading%20the%20Region/Texts%20by%20and%20about%20Natives/Texts/9.html.) 
 
 “Intelligence from Oregon .” The New York Herald , January 17, 1849. 
 
