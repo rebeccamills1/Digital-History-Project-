@@ -15,13 +15,9 @@ The United States preserved their fragile relations with the Nez Perce when they
 
 During the late 1850s, the United States cemented their relationship with the Cayuse, Umatilla, Walla Walla, Nez Perce, Flathead, Kootenai and Upper Pend d’Oreilles tribes when they held treaty councils that promoted America’s economic interests, which caused a clash between the indigenous people and Americans.  In 1853, the United States appointed Isaac T. Stevens as the new governor of the Washington Territory and commissioned him to discover “the most feasible route for a railroad to the Pacific.”  Stevens concluded that the Washington Territory provided new local and global economic opportunities for the United States.  These opportunities fostered fear among the Indians because they recognized that Stevens sought to purchase their land and “open [it up] to white settlers.”  This fear implied that the “Walla Walla Treaty Council” and the “Hellgate Treaty Council” represented a clash between American economic values and indigenous self-determination.  Because of this cultural clash, Stevens and others advocated for policies, such as allotments and reservations, that implanted American ideals onto these tribes.   Big Canoe, a member of the Upper Pend d’Oreilles tribe, reinforced these tensions when he claimed that “I am not going to let [my land] go.”  Canoe implied that these treaties invaded his tribe’s sovereignty and their personal connections with the land.  Steven’s treaties set the United States on a collision course toward disunification and further cultural clashes with indigenous tribes.[^3] 
 
-
-
 [Nez Perce Treaty of 1855 and 1863](https://user-images.githubusercontent.com/97861683/167576585-a50437fd-60d0-4f34-bcfb-ca08852b2733.png)
 
-
 The United States violated the terms of the Nez Perce Treaty of 1855 and other 1855 treaties when they allowed settlers onto Indian land, which deteriorated U.S.-tribal relations and divided the tribes during the 1860s.  Beginning in 1855, Americans discovered gold in Colville Valley in the Washington Territory, which caused an influx of settlers onto indigenous land.  This discovery instigated fear and hostility among the Indians, who argued that “they should not have signed the treaties” if the United States ignored its terms.  These conflicts framed the delayed ratification of the 1855 treaties as a clash between friendly relations with the Americans and resistance.  Because of this clash, some members of the Nez Perce Tribe, such as Chief Lawyer, supported the Americans even when they opposed decreasing the size of their reservation at the 1863 Treaty Council.  Others, such as Looking Glass, decried white settlement as a violation of the Nez Perce Treaty of 1855, which caused the Nez Perce to separate into the treaty and anti-treaty groups.  Chief Joseph’s speech “An Indian’s View of Indian Affairs” reinforced these divisions when he claimed that “the white man had no right to come here and take our country.”  Joseph’s speech demonstrated the growing animosity between the Americans, treaty and anti-treaty bands of the Nez Perce, over the issue of land sovereignty.[^4]
-
 
 ## The Treaty Era Between 1855-1863 
 
@@ -33,7 +29,7 @@ America espoused their support for indigenous sovereignty within the reservation
 
 [1855 Umatila Visualization](https://user-images.githubusercontent.com/97861683/167576681-a737473b-c625-4267-a944-dc0b161739a7.png)
 
- ### References 
+ ## References 
  
  “Arrival of the Nez Perce Indians to Wallawalla Treaty, May 1855.” 1855councilminutes. University of Idaho Library . Accessed May 9, 2022. https://www.lib.uidaho.edu/mcbeth/governmentdoc/1855council.htm. 
 
@@ -45,7 +41,7 @@ Baird, Dennis W., Diane Mallickan, and William R. Swagerty. The Nez Perce Nation
 
 Bigart, Robert, and Clarence Woodcock. In the Name of the Salish &amp; Kootenai Nation: The 1855 Hell Gate Treaty and the Origin of the Flathead Indian Reservation. Pablo, MT: Salish Kootenai College Press, 1996. 
 
-“An Indian's View of Indian Affairs.” Center for the study of the pacific northwest. University of Washington . Accessed May 9, 2022. https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Reading%20the%20Region/Texts%20by%20and%20about%20Natives/Texts/9.html. 
+“An Indian's View of Indian Affairs.” Center for the study of the pacific northwest. University of Washington . Accessed May 9, 2022. [Chief Joseph's Speech] (https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Reading%20the%20Region/Texts%20by%20and%20about%20Natives/Texts/9.html.)  
 
 “Intelligence from Oregon .” The New York Herald , January 17, 1849. 
 
@@ -78,3 +74,5 @@ Treaty with the Walla Walla, Cayuse, etc., 1855. Washington State Historical Soc
 [^5]: Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
  
 [^6]: Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
+
+Disclaimer: The topic modeling visualizations are included as links.
