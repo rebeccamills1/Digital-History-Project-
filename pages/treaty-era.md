@@ -42,27 +42,39 @@ permalink: /treaty-era.html
 
 [^3]:  Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
 
- Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
+[^4]: Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
  
- Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
+[^5]: Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
  
- Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
+[^6]: Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
  
  ### References 
  
  “Arrival of the Nez Perce Indians to Wallawalla Treaty, May 1855.” 1855councilminutes. University of Idaho Library . Accessed May 9, 2022. https://www.lib.uidaho.edu/mcbeth/governmentdoc/1855council.htm. 
+
 Bacevich, Andrew J. Ideas and American Foreign Policy: A Reader. New York, NY: Oxford university press, 2018. 
-Bacevich, Andrew J. Ideas and American Foreign Policy: A Reader. New York, NY: Oxford university press, 2018. 
+
 Baird, Dennis W. Reports on the Aftermath of the 1863 Nez Perce Treaty by Chief Lawyer, Governor Caleb Lyon, General Benjamin Alvord, Indian Agent James O'Neill. Moscow, ID: University of Idaho Library, 1999. 
+
 Baird, Dennis W., Diane Mallickan, and William R. Swagerty. The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty. Moscow, ID: University of Idaho Press, 2002. 
+
 Bigart, Robert, and Clarence Woodcock. In the Name of the Salish &amp; Kootenai Nation: The 1855 Hell Gate Treaty and the Origin of the Flathead Indian Reservation. Pablo, MT: Salish Kootenai College Press, 1996. 
+
 “An Indian's View of Indian Affairs.” Center for the study of the pacific northwest. University of Washington . Accessed May 9, 2022. https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Reading%20the%20Region/Texts%20by%20and%20about%20Natives/Texts/9.html. 
+
 “Intelligence from Oregon .” The New York Herald , January 17, 1849. 
+
 Josephy, Alvin M. Nez Perce Country. Lincoln, NE: University of Nebraska Press, 2007. 
+
 “Nez Perce Treaty, 1855 - USDA.” Nez Perce Treaty, 1855. USDA. Accessed May 10, 2022. https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5108216.pdf. 
 Ruby, Robert H., John A. Brown, and Robert H. Ruby. The Cayuse Indians: Imperial Tribesmen of Old Oregon. Norman, OK: University of Oklahoma Press, 2005. 
+
 Stevens , Isacc T. “The Northern Route to the Pacific.” The Minnesota Pioneer . March 16, 1854. 
+
 Todd, Ronald, Isaac I. Stevens, and J. W Nesmith. “Letters of Governor Isaac I. Stevens, 1857-1858.” The Pacific Northwest Quarterly 31, no. 4 (October 1940): 403–59. https://www.jstor.org/stable/40486416. 
+
 “Treaty of Hellgate, 1855.” Washington Historical Society. Washington Historical Society . Accessed May 9, 2022. https://archive.org/details/perma_cc_UT9Z-2SHV. 
+
 Treaty with the Walla Walla, Cayuse, etc., 1855. Washington State Historical Society . Accessed May 10, 2022. https://www.washingtonhistory.org/wp-content/uploads/2021/01/Vol_33_04_WINTER_2020_FINAL_wCOVERS.pdf. 
+
 “U.S.-Indian Treaty Councils in the Northwest .” Washington History. Washington History. Accessed May 10, 2022. https://www.washingtonhistory.org/wp-content/uploads/2020/04/ChronologyOfCouncils-1.pdf. 
