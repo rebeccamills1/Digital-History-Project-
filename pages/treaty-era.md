@@ -30,24 +30,6 @@ permalink: /treaty-era.html
 
 ### America espoused their support for indigenous sovereignty within the reservations but demanded that the tribes depend upon the United States Government, which promoted subjugation.  The Hellgate Treaty of 1859 required the Flathead, Kootenai and Upper Pend d’Oreilles tribes to “acknowledge their dependence upon the Government of the United States and promise to be friendly with all citizens thereof.”  This requirement framed indigenous government as a clash between self-determination and paternalism.  Because of this contentious arrangement, Americans advocated for a government system that placed the tribes under the control of an Indian commissioner.  In his 1858 letter to Charles E., Governor Stevens promoted this government structure when he asserted that he needed “an agent [who had] the authority to speak officially of the views of the Government” at the Blackfeet Treaty Council.  He smothered indigenous sovereignty when he suggested that the United States should adopt a paternalistic attitude toward the Indians.  Stevens’ paternalistic attitude stoked the flames for growing anti-American sentiment among the tribes and set the United States on a collision course toward war with the Indians.[^6].
 
-
-
-
-
-### Notes 
-
-[^1]:Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59.; Andrew J. Bacevich, Ideas and American Foreign Policy: A Reader (New York, NY: Oxford university press, 2018), 40; Dennis W. Baird, Reports on the Aftermath of the 1863 Nez Perce Treaty by Chief Lawyer, Governor Caleb Lyon, General Benjamin Alvord, Indian Agent James O'Neill (Moscow, ID: University of Idaho Library, 1999), 7.
-  
-[^2]: Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.“Intelligence from Oregon ,” The New York Herald , January 17, 1849, p. 1.
-
-[^3]:  Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
-
-[^4]: Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
- 
-[^5]: Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
- 
-[^6]: Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
- 
  ### References 
  
  “Arrival of the Nez Perce Indians to Wallawalla Treaty, May 1855.” 1855councilminutes. University of Idaho Library . Accessed May 9, 2022. https://www.lib.uidaho.edu/mcbeth/governmentdoc/1855council.htm. 
@@ -78,3 +60,18 @@ Todd, Ronald, Isaac I. Stevens, and J. W Nesmith. “Letters of Governor Isaac I
 Treaty with the Walla Walla, Cayuse, etc., 1855. Washington State Historical Society . Accessed May 10, 2022. https://www.washingtonhistory.org/wp-content/uploads/2021/01/Vol_33_04_WINTER_2020_FINAL_wCOVERS.pdf. 
 
 “U.S.-Indian Treaty Councils in the Northwest .” Washington History. Washington History. Accessed May 10, 2022. https://www.washingtonhistory.org/wp-content/uploads/2020/04/ChronologyOfCouncils-1.pdf. 
+
+
+### Notes 
+
+[^1]:Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59.; Andrew J. Bacevich, Ideas and American Foreign Policy: A Reader (New York, NY: Oxford university press, 2018), 40; Dennis W. Baird, Reports on the Aftermath of the 1863 Nez Perce Treaty by Chief Lawyer, Governor Caleb Lyon, General Benjamin Alvord, Indian Agent James O'Neill (Moscow, ID: University of Idaho Library, 1999), 7.
+  
+[^2]: Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.“Intelligence from Oregon ,” The New York Herald , January 17, 1849, p. 1.
+
+[^3]:  Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
+
+[^4]: Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
+ 
+[^5]: Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
+ 
+[^6]: Alvin M. Josephy, *Nez Perce Country* (Lincoln, NE: University of Nebraska Press, 2007). 59-61.; Dennis W. Baird, Diane Mallickan, and William R. Swagerty, The Nez Perce Nation Divided: Firsthand Accounts of Events Leading to the 1863 Treaty (Moscow, ID: University of Idaho Press, 2002), 358.
