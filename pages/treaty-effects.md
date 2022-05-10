@@ -12,8 +12,6 @@ cloud-fields: site.data.theme.subjects-fields
 
 ### After the United States implemented the 1855 and 1863 treaties, they continued to break their promises with the indigenous nations, which severed relations between Americans and the tribes.[^1] The 1855 Treaty with the Walla Walla, Cayuse, and Umatilla and the Nez Perce Treaty of 1863 guaranteed that these tribes and others would have “exclusive use” of their reservations without encroachment from American settlers.[^2] However, prior to the ratification of the 1863 treaty, Americans settled on indigenous reservations in violation of the treaty terms, which fueled animosity between the Indians and the United States.[^3]  This animosity suggested that Americans valued their own economic expansion and gain above indigenous rights and treaty agreements.[^4]  Because of this cultural clash, Chief Lawyer advocated for policies, such as the building of schools promised in the treaties and the elimination of Americans settlers on the reservations, that honored treaty agreements and protect Indian sovereignty.[^5].  Governor Lyon responded to Lawyer’s requests when he reiterated that “the strong arm of the Government shall protect you, and carry out the stipulations of the Stevens treaty.”[^6].  By reinforcing America’s adherence to the treaties, Lyon reaffirmed the United States’ commitment to maintaining friendly relations with the indigenous tribes even as America pursued a policy of acculturation and assimilation.[^7]. 
 
-{% include feature/image.html Arrival_of_the_Nez_Perce_Indians_to_Walla_Walla_Treaty_May_1855.jpg width="75" %}
-
 
 ## Conclusion 
 
