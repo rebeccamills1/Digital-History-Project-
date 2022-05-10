@@ -29,7 +29,7 @@ America espoused their support for indigenous sovereignty within the reservation
 
 [1855 Umatila Visualization](https://user-images.githubusercontent.com/97861683/167576681-a737473b-c625-4267-a944-dc0b161739a7.png)
 
- ## References 
+ ### References
  
  “Arrival of the Nez Perce Indians to Wallawalla Treaty, May 1855.” 1855councilminutes. University of Idaho Library . Accessed May 9, 2022. https://www.lib.uidaho.edu/mcbeth/governmentdoc/1855council.htm. 
 
